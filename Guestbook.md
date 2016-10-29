@@ -32,3 +32,4 @@ And this is my first pull request :octocat:!
 * [ChristianV97](https://github.com/ChristianV97)
 * [Borja Giraldez](https://github.com/giraldez122)
 * [Charlye_Von_Camaro](http://instagram.com/ertrinken_official)
+* [Yogesh Singh](https://github.com/singhyogesh252)
